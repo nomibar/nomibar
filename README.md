@@ -1,16 +1,32 @@
-## Hi there 👋
+# Nominoë Barbotaud
 
-<!--
-**nomibar/nomibar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Actuellement : Iut lannion BUT informatique 2nd
+## skills
 
-Here are some ideas to get you started:
+`Programmation web`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&perline=9)](https://skillicons.dev)
+
+`Bdd`
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite&perline=9)](https://skillicons.dev)
+
+
+`Programmation`
+
+[![My Skills](https://skillicons.dev/icons?i=php,c,java,python&perline=9)](https://skillicons.dev)
+
+`gestion`
+
+[![My Skills](https://skillicons.dev/icons?i=github&perline=9)](https://skillicons.dev)
+
+## Systeme d'exploitation utilisé
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows&perline=9)](https://skillicons.dev)
+
+## application de developpement utilisé
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea&perline=9)](https://skillicons.dev)
+
+
+
