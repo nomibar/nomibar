@@ -1,6 +1,6 @@
 # Nominoë Barbotaud
 
-## 📔 Actuellement : Iut lannion BUT informatique 3nd
+## 📔 Actuellement : Iut lannion BUT informatique 3rd
 ## 🔧 skills
 
 `Programmation web`
